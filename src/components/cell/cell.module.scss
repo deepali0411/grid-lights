@@ -1,0 +1,9 @@
+.cell {
+    border-radius: 0.4rem;
+    border: 0.1rem solid #8e8c8c;
+    background-color: transparent;
+    cursor: pointer;
+}
+.selectedCell {
+    background-color: green;
+}
